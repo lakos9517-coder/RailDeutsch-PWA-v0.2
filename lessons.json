@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "01",
+    "title": {
+      "de": "Grundbegriffe",
+      "hu": "Vasúti alapfogalmak"
+    },
+    "icon": "🚆",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Was ist ein Triebfahrzeug?",
+            "hu": "Mi a vontatójármű?"
+          },
+          "answers": [
+            {
+              "de": "Ein Fahrzeug mit eigenem Antrieb",
+              "hu": "Saját hajtással rendelkező jármű"
+            },
+            {
+              "de": "Ein Bahnsteig",
+              "hu": "Egy peron"
+            },
+            {
+              "de": "Ein Fahrplan",
+              "hu": "Egy menetrend"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Ein Triebfahrzeug besitzt einen eigenen Antrieb.",
+            "hu": "A vontatójármű saját hajtással rendelkezik."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was ist ein Triebfahrzeug?",
+            "hu": "Mi a vontatójármű?"
+          },
+          "answers": [
+            {
+              "de": "Ein Fahrzeug mit eigenem Antrieb",
+              "hu": "Saját hajtással rendelkező jármű"
+            },
+            {
+              "de": "Ein Bahnsteig",
+              "hu": "Egy peron"
+            },
+            {
+              "de": "Ein Fahrplan",
+              "hu": "Egy menetrend"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Ein Triebfahrzeug besitzt einen eigenen Antrieb.",
+            "hu": "A vontatójármű saját hajtással rendelkezik."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „der Zug“?",
+            "hu": "Mit jelent a „der Zug“?"
+          },
+          "answers": [
+            {
+              "de": "Die Strecke",
+              "hu": "A pálya"
+            },
+            {
+              "de": "Der Zug",
+              "hu": "A vonat"
+            },
+            {
+              "de": "Der Bahnhof",
+              "hu": "Az állomás"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Der Zug ist eine Eisenbahnfahrzeug-Einheit im Betrieb.",
+            "hu": "A „der Zug” magyarul „a vonat”."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „der Zug“?",
+            "hu": "Mit jelent a „der Zug“?"
+          },
+          "answers": [
+            {
+              "de": "Die Strecke",
+              "hu": "A pálya"
+            },
+            {
+              "de": "Der Zug",
+              "hu": "A vonat"
+            },
+            {
+              "de": "Der Bahnhof",
+              "hu": "Az állomás"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Der Zug ist eine Eisenbahnfahrzeug-Einheit im Betrieb.",
+            "hu": "A „der Zug” magyarul „a vonat”."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was ist ein Wagen?",
+            "hu": "Mi a vasúti kocsi?"
+          },
+          "answers": [
+            {
+              "de": "Ein Signal",
+              "hu": "Jelző"
+            },
+            {
+              "de": "Ein Tunnel",
+              "hu": "Alagút"
+            },
+            {
+              "de": "Ein Schienenfahrzeug",
+              "hu": "Sínen közlekedő jármű"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Ein Wagen ist ein Schienenfahrzeug, häufig ohne eigenen Antrieb.",
+            "hu": "A kocsi vasúti jármű, amely gyakran nem rendelkezik saját hajtással."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was ist ein Wagen?",
+            "hu": "Mi a vasúti kocsi?"
+          },
+          "answers": [
+            {
+              "de": "Ein Signal",
+              "hu": "Jelző"
+            },
+            {
+              "de": "Ein Tunnel",
+              "hu": "Alagút"
+            },
+            {
+              "de": "Ein Schienenfahrzeug",
+              "hu": "Sínen közlekedő jármű"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Ein Wagen ist ein Schienenfahrzeug, häufig ohne eigenen Antrieb.",
+            "hu": "A kocsi vasúti jármű, amely gyakran nem rendelkezik saját hajtással."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "title": {
+      "de": "Bahnhof und Gleis",
+      "hu": "Állomás és vágány"
+    },
+    "icon": "🚉",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Was ist ein Bahnsteig?",
+            "hu": "Mi a peron?"
+          },
+          "answers": [
+            {
+              "de": "Bereich zum Ein- und Aussteigen",
+              "hu": "Fel- és leszállásra szolgáló terület"
+            },
+            {
+              "de": "Ein Bremssystem",
+              "hu": "Fékrendszer"
+            },
+            {
+              "de": "Eine Lokomotive",
+              "hu": "Mozdony"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Am Bahnsteig steigen Reisende ein oder aus.",
+            "hu": "A peron az utasok fel- és leszállását szolgálja."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was ist ein Bahnsteig?",
+            "hu": "Mi a peron?"
+          },
+          "answers": [
+            {
+              "de": "Bereich zum Ein- und Aussteigen",
+              "hu": "Fel- és leszállásra szolgáló terület"
+            },
+            {
+              "de": "Ein Bremssystem",
+              "hu": "Fékrendszer"
+            },
+            {
+              "de": "Eine Lokomotive",
+              "hu": "Mozdony"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Am Bahnsteig steigen Reisende ein oder aus.",
+            "hu": "A peron az utasok fel- és leszállását szolgálja."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Gleis 3“?",
+            "hu": "Mit jelent a „Gleis 3“?"
+          },
+          "answers": [
+            {
+              "de": "Ausgang 3",
+              "hu": "3. kijárat"
+            },
+            {
+              "de": "Gleis 3",
+              "hu": "3. vágány"
+            },
+            {
+              "de": "Zug 3",
+              "hu": "3. szerelvény"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Ein Gleis ist ein Schienenweg.",
+            "hu": "A Gleis vágányt jelent."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Gleis 3“?",
+            "hu": "Mit jelent a „Gleis 3“?"
+          },
+          "answers": [
+            {
+              "de": "Ausgang 3",
+              "hu": "3. kijárat"
+            },
+            {
+              "de": "Gleis 3",
+              "hu": "3. vágány"
+            },
+            {
+              "de": "Zug 3",
+              "hu": "3. szerelvény"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Ein Gleis ist ein Schienenweg.",
+            "hu": "A Gleis vágányt jelent."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was ist eine Weiche?",
+            "hu": "Mi a váltó?"
+          },
+          "answers": [
+            {
+              "de": "Ein Fenster",
+              "hu": "Ablak"
+            },
+            {
+              "de": "Eine Fahrkarte",
+              "hu": "Menetjegy"
+            },
+            {
+              "de": "Eine Verbindung zwischen Gleiswegen",
+              "hu": "Vágányutak közötti kapcsolat"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Eine Weiche ermöglicht den Wechsel von einem Gleisweg auf einen anderen.",
+            "hu": "A váltó lehetővé teszi a vágányút megváltoztatását."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was ist eine Weiche?",
+            "hu": "Mi a váltó?"
+          },
+          "answers": [
+            {
+              "de": "Ein Fenster",
+              "hu": "Ablak"
+            },
+            {
+              "de": "Eine Fahrkarte",
+              "hu": "Menetjegy"
+            },
+            {
+              "de": "Eine Verbindung zwischen Gleiswegen",
+              "hu": "Vágányutak közötti kapcsolat"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Eine Weiche ermöglicht den Wechsel von einem Gleisweg auf einen anderen.",
+            "hu": "A váltó lehetővé teszi a vágányút megváltoztatását."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "title": {
+      "de": "Fahrplan und Zeit",
+      "hu": "Menetrend és idő"
+    },
+    "icon": "🕒",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Abfahrt“?",
+            "hu": "Mit jelent az „Abfahrt“?"
+          },
+          "answers": [
+            {
+              "de": "Ankunft",
+              "hu": "Érkezés"
+            },
+            {
+              "de": "Abfahrt",
+              "hu": "Indulás"
+            },
+            {
+              "de": "Halt",
+              "hu": "Megállás"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Abfahrt bezeichnet das Losfahren.",
+            "hu": "Az Abfahrt indulást jelent."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Abfahrt“?",
+            "hu": "Mit jelent az „Abfahrt“?"
+          },
+          "answers": [
+            {
+              "de": "Ankunft",
+              "hu": "Érkezés"
+            },
+            {
+              "de": "Abfahrt",
+              "hu": "Indulás"
+            },
+            {
+              "de": "Halt",
+              "hu": "Megállás"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Abfahrt bezeichnet das Losfahren.",
+            "hu": "Az Abfahrt indulást jelent."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Ankunft“?",
+            "hu": "Mit jelent az „Ankunft“?"
+          },
+          "answers": [
+            {
+              "de": "Ankunft",
+              "hu": "Érkezés"
+            },
+            {
+              "de": "Verspätung",
+              "hu": "Késés"
+            },
+            {
+              "de": "Umstieg",
+              "hu": "Átszállás"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Ankunft bezeichnet das Eintreffen.",
+            "hu": "Az Ankunft érkezést jelent."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Ankunft“?",
+            "hu": "Mit jelent az „Ankunft“?"
+          },
+          "answers": [
+            {
+              "de": "Ankunft",
+              "hu": "Érkezés"
+            },
+            {
+              "de": "Verspätung",
+              "hu": "Késés"
+            },
+            {
+              "de": "Umstieg",
+              "hu": "Átszállás"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Ankunft bezeichnet das Eintreffen.",
+            "hu": "Az Ankunft érkezést jelent."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Der Zug hat 10 Minuten Verspätung. Was bedeutet das?",
+            "hu": "A vonatnak 10 perc késése van. Mit jelent ez?"
+          },
+          "answers": [
+            {
+              "de": "Er fährt früher.",
+              "hu": "Korábban indul."
+            },
+            {
+              "de": "Er fällt aus.",
+              "hu": "Kimarad."
+            },
+            {
+              "de": "Er kommt oder fährt 10 Minuten später als geplant.",
+              "hu": "A tervezettnél 10 perccel később érkezik vagy indul."
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Verspätung bedeutet eine zeitliche Abweichung nach hinten.",
+            "hu": "A Verspätung időbeli késést jelent."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Der Zug hat 10 Minuten Verspätung. Was bedeutet das?",
+            "hu": "A vonatnak 10 perc késése van. Mit jelent ez?"
+          },
+          "answers": [
+            {
+              "de": "Er fährt früher.",
+              "hu": "Korábban indul."
+            },
+            {
+              "de": "Er fällt aus.",
+              "hu": "Kimarad."
+            },
+            {
+              "de": "Er kommt oder fährt 10 Minuten später als geplant.",
+              "hu": "A tervezettnél 10 perccel később érkezik vagy indul."
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Verspätung bedeutet eine zeitliche Abweichung nach hinten.",
+            "hu": "A Verspätung időbeli késést jelent."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "title": {
+      "de": "Lokomotive",
+      "hu": "Mozdony"
+    },
+    "icon": "🚂",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Was ist der Führerstand?",
+            "hu": "Mi a vezetőállás?"
+          },
+          "answers": [
+            {
+              "de": "Der Arbeitsplatz des Triebfahrzeugführers",
+              "hu": "A mozdonyvezető munkahelye"
+            },
+            {
+              "de": "Der Speisewagen",
+              "hu": "Az étkezőkocsi"
+            },
+            {
+              "de": "Der Bahnsteig",
+              "hu": "A peron"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Vom Führerstand aus wird das Triebfahrzeug bedient.",
+            "hu": "A járművet a vezetőállásból kezelik."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was ist der Führerstand?",
+            "hu": "Mi a vezetőállás?"
+          },
+          "answers": [
+            {
+              "de": "Der Arbeitsplatz des Triebfahrzeugführers",
+              "hu": "A mozdonyvezető munkahelye"
+            },
+            {
+              "de": "Der Speisewagen",
+              "hu": "Az étkezőkocsi"
+            },
+            {
+              "de": "Der Bahnsteig",
+              "hu": "A peron"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Vom Führerstand aus wird das Triebfahrzeug bedient.",
+            "hu": "A járművet a vezetőállásból kezelik."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „die Geschwindigkeit“?",
+            "hu": "Mit jelent a „die Geschwindigkeit“?"
+          },
+          "answers": [
+            {
+              "de": "Spannung",
+              "hu": "Feszültség"
+            },
+            {
+              "de": "Geschwindigkeit",
+              "hu": "Sebesség"
+            },
+            {
+              "de": "Masse",
+              "hu": "Tömeg"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Geschwindigkeit beschreibt, wie schnell sich etwas bewegt.",
+            "hu": "A Geschwindigkeit sebességet jelent."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „die Geschwindigkeit“?",
+            "hu": "Mit jelent a „die Geschwindigkeit“?"
+          },
+          "answers": [
+            {
+              "de": "Spannung",
+              "hu": "Feszültség"
+            },
+            {
+              "de": "Geschwindigkeit",
+              "hu": "Sebesség"
+            },
+            {
+              "de": "Masse",
+              "hu": "Tömeg"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Geschwindigkeit beschreibt, wie schnell sich etwas bewegt.",
+            "hu": "A Geschwindigkeit sebességet jelent."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was ist ein Stromabnehmer?",
+            "hu": "Mi az áramszedő?"
+          },
+          "answers": [
+            {
+              "de": "Eine Tür",
+              "hu": "Ajtó"
+            },
+            {
+              "de": "Eine Anzeige",
+              "hu": "Kijelző"
+            },
+            {
+              "de": "Ein Bauteil zur Stromabnahme von der Oberleitung",
+              "hu": "A felsővezetékből áramot felvevő alkatrész"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Stromabnehmer können Strom aus der Oberleitung aufnehmen.",
+            "hu": "Az áramszedő a felsővezetékből vesz fel áramot."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was ist ein Stromabnehmer?",
+            "hu": "Mi az áramszedő?"
+          },
+          "answers": [
+            {
+              "de": "Eine Tür",
+              "hu": "Ajtó"
+            },
+            {
+              "de": "Eine Anzeige",
+              "hu": "Kijelző"
+            },
+            {
+              "de": "Ein Bauteil zur Stromabnahme von der Oberleitung",
+              "hu": "A felsővezetékből áramot felvevő alkatrész"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Stromabnehmer können Strom aus der Oberleitung aufnehmen.",
+            "hu": "Az áramszedő a felsővezetékből vesz fel áramot."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "title": {
+      "de": "Bremsen",
+      "hu": "Fékezés"
+    },
+    "icon": "🛑",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „bremsen“?",
+            "hu": "Mit jelent a „bremsen“?"
+          },
+          "answers": [
+            {
+              "de": "Beschleunigen",
+              "hu": "Gyorsítani"
+            },
+            {
+              "de": "Bremsen",
+              "hu": "Fékezni"
+            },
+            {
+              "de": "Kuppeln",
+              "hu": "Kapcsolni"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Bremsen bedeutet, die Geschwindigkeit zu verringern.",
+            "hu": "A bremsen jelentése: fékezni."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „bremsen“?",
+            "hu": "Mit jelent a „bremsen“?"
+          },
+          "answers": [
+            {
+              "de": "Beschleunigen",
+              "hu": "Gyorsítani"
+            },
+            {
+              "de": "Bremsen",
+              "hu": "Fékezni"
+            },
+            {
+              "de": "Kuppeln",
+              "hu": "Kapcsolni"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Bremsen bedeutet, die Geschwindigkeit zu verringern.",
+            "hu": "A bremsen jelentése: fékezni."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Wozu dient eine Bremse?",
+            "hu": "Mire szolgál a fék?"
+          },
+          "answers": [
+            {
+              "de": "Zum Verzögern oder Anhalten",
+              "hu": "Lassításra vagy megállításra"
+            },
+            {
+              "de": "Zum Beleuchten",
+              "hu": "Világításra"
+            },
+            {
+              "de": "Zum Heizen",
+              "hu": "Fűtésre"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Eine Bremse kann ein Fahrzeug verzögern oder anhalten.",
+            "hu": "A fék a jármű lassítására vagy megállítására szolgál."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Wozu dient eine Bremse?",
+            "hu": "Mire szolgál a fék?"
+          },
+          "answers": [
+            {
+              "de": "Zum Verzögern oder Anhalten",
+              "hu": "Lassításra vagy megállításra"
+            },
+            {
+              "de": "Zum Beleuchten",
+              "hu": "Világításra"
+            },
+            {
+              "de": "Zum Heizen",
+              "hu": "Fűtésre"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Eine Bremse kann ein Fahrzeug verzögern oder anhalten.",
+            "hu": "A fék a jármű lassítására vagy megállítására szolgál."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Bremsprobe“?",
+            "hu": "Mit jelent a „Bremsprobe“?"
+          },
+          "answers": [
+            {
+              "de": "Ein Fahrplan",
+              "hu": "Egy menetrend"
+            },
+            {
+              "de": "Die Türfarbe",
+              "hu": "Az ajtók színe"
+            },
+            {
+              "de": "Prüfung der Bremsfunktion",
+              "hu": "A fék működésének ellenőrzése"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Bei einer Bremsprobe wird die Bremsfunktion geprüft.",
+            "hu": "A fékpróba a fék működésének ellenőrzése."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Bremsprobe“?",
+            "hu": "Mit jelent a „Bremsprobe“?"
+          },
+          "answers": [
+            {
+              "de": "Ein Fahrplan",
+              "hu": "Egy menetrend"
+            },
+            {
+              "de": "Die Türfarbe",
+              "hu": "Az ajtók színe"
+            },
+            {
+              "de": "Prüfung der Bremsfunktion",
+              "hu": "A fék működésének ellenőrzése"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Bei einer Bremsprobe wird die Bremsfunktion geprüft.",
+            "hu": "A fékpróba a fék működésének ellenőrzése."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "title": {
+      "de": "Signale – Grundlagen",
+      "hu": "Jelzési alapismeretek"
+    },
+    "icon": "🚦",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Halt“ im allgemeinen Sprachgebrauch?",
+            "hu": "Mit jelent általánosan a „Halt“?"
+          },
+          "answers": [
+            {
+              "de": "Weiter",
+              "hu": "Tovább"
+            },
+            {
+              "de": "Stopp",
+              "hu": "Megállj"
+            },
+            {
+              "de": "Später",
+              "hu": "Később"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Halt bedeutet Stopp. Verbindliche Signalbedeutungen sind länderspezifisch.",
+            "hu": "A Halt megálljt jelent. A hivatalos jelzések jelentése országonként külön szabályozott."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Halt“ im allgemeinen Sprachgebrauch?",
+            "hu": "Mit jelent általánosan a „Halt“?"
+          },
+          "answers": [
+            {
+              "de": "Weiter",
+              "hu": "Tovább"
+            },
+            {
+              "de": "Stopp",
+              "hu": "Megállj"
+            },
+            {
+              "de": "Später",
+              "hu": "Később"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Halt bedeutet Stopp. Verbindliche Signalbedeutungen sind länderspezifisch.",
+            "hu": "A Halt megálljt jelent. A hivatalos jelzések jelentése országonként külön szabályozott."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Warum müssen Signale beachtet werden?",
+            "hu": "Miért kell a jelzőket figyelni?"
+          },
+          "answers": [
+            {
+              "de": "Für den sicheren Bahnbetrieb",
+              "hu": "A biztonságos vasúti közlekedésért"
+            },
+            {
+              "de": "Für das Wetter",
+              "hu": "Az időjárás miatt"
+            },
+            {
+              "de": "Für den Fahrpreis",
+              "hu": "A jegyár miatt"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Signale tragen zur sicheren Regelung des Bahnbetriebs bei.",
+            "hu": "A jelzők segítik a vasúti közlekedés biztonságos szabályozását."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Warum müssen Signale beachtet werden?",
+            "hu": "Miért kell a jelzőket figyelni?"
+          },
+          "answers": [
+            {
+              "de": "Für den sicheren Bahnbetrieb",
+              "hu": "A biztonságos vasúti közlekedésért"
+            },
+            {
+              "de": "Für das Wetter",
+              "hu": "Az időjárás miatt"
+            },
+            {
+              "de": "Für den Fahrpreis",
+              "hu": "A jegyár miatt"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Signale tragen zur sicheren Regelung des Bahnbetriebs bei.",
+            "hu": "A jelzők segítik a vasúti közlekedés biztonságos szabályozását."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "In welchem Land lernen wir hier die Signalvorschriften?",
+            "hu": "Melyik ország jelzési szabályait tanuljuk itt?"
+          },
+          "answers": [
+            {
+              "de": "Deutschland",
+              "hu": "Németország"
+            },
+            {
+              "de": "Schweiz",
+              "hu": "Svájc"
+            },
+            {
+              "de": "Österreich",
+              "hu": "Ausztria"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Hier wurde Österreich ausgewählt. Dies ist keine amtliche Signalunterweisung.",
+            "hu": "Itt Ausztria van kiválasztva. Ez nem hivatalos jelzési oktatás."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "In welchem Land lernen wir hier die Signalvorschriften?",
+            "hu": "Melyik ország jelzési szabályait tanuljuk itt?"
+          },
+          "answers": [
+            {
+              "de": "Österreich",
+              "hu": "Ausztria"
+            },
+            {
+              "de": "Deutschland",
+              "hu": "Németország"
+            },
+            {
+              "de": "Schweiz",
+              "hu": "Svájc"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Hier wurde Deutschland ausgewählt. Dies ist keine amtliche Signalunterweisung.",
+            "hu": "Itt Németország van kiválasztva. Ez nem hivatalos jelzési oktatás."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "title": {
+      "de": "Kommunikation",
+      "hu": "Forgalmi kommunikáció"
+    },
+    "icon": "📻",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Bitte wiederholen“?",
+            "hu": "Mit jelent a „Bitte wiederholen“?"
+          },
+          "answers": [
+            {
+              "de": "Bitte wiederholen!",
+              "hu": "Kérem, ismételje meg!"
+            },
+            {
+              "de": "Bitte anhalten!",
+              "hu": "Kérem, álljon meg!"
+            },
+            {
+              "de": "Bitte warten!",
+              "hu": "Kérem, várjon!"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Wiederholen bedeutet, etwas noch einmal zu sagen.",
+            "hu": "A wiederholen jelentése: megismételni."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Bitte wiederholen“?",
+            "hu": "Mit jelent a „Bitte wiederholen“?"
+          },
+          "answers": [
+            {
+              "de": "Bitte wiederholen!",
+              "hu": "Kérem, ismételje meg!"
+            },
+            {
+              "de": "Bitte anhalten!",
+              "hu": "Kérem, álljon meg!"
+            },
+            {
+              "de": "Bitte warten!",
+              "hu": "Kérem, várjon!"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Wiederholen bedeutet, etwas noch einmal zu sagen.",
+            "hu": "A wiederholen jelentése: megismételni."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „verstanden“?",
+            "hu": "Mit jelent a „verstanden“?"
+          },
+          "answers": [
+            {
+              "de": "Abgefahren",
+              "hu": "Elindult"
+            },
+            {
+              "de": "Verstanden",
+              "hu": "Megértettem"
+            },
+            {
+              "de": "Verloren",
+              "hu": "Elveszett"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Verstanden heißt, dass eine Nachricht begriffen wurde.",
+            "hu": "A verstanden jelentése: megértettem."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „verstanden“?",
+            "hu": "Mit jelent a „verstanden“?"
+          },
+          "answers": [
+            {
+              "de": "Abgefahren",
+              "hu": "Elindult"
+            },
+            {
+              "de": "Verstanden",
+              "hu": "Megértettem"
+            },
+            {
+              "de": "Verloren",
+              "hu": "Elveszett"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Verstanden heißt, dass eine Nachricht begriffen wurde.",
+            "hu": "A verstanden jelentése: megértettem."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was solltest du bei einer unklaren Übungsnachricht tun?",
+            "hu": "Mit tegyél egy nem egyértelmű gyakorló üzenetnél?"
+          },
+          "answers": [
+            {
+              "de": "Raten",
+              "hu": "Tippelni"
+            },
+            {
+              "de": "Ignorieren",
+              "hu": "Figyelmen kívül hagyni"
+            },
+            {
+              "de": "Um Wiederholung oder Klärung bitten",
+              "hu": "Ismétlést vagy pontosítást kérni"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Bei Unklarheit hilft eine Rückfrage. Reale Betriebsverfahren richten sich nach den Vorschriften.",
+            "hu": "Ha valami nem világos, kérj pontosítást. A valódi forgalmi eljárásokat az előírások határozzák meg."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was solltest du bei einer unklaren Übungsnachricht tun?",
+            "hu": "Mit tegyél egy nem egyértelmű gyakorló üzenetnél?"
+          },
+          "answers": [
+            {
+              "de": "Raten",
+              "hu": "Tippelni"
+            },
+            {
+              "de": "Ignorieren",
+              "hu": "Figyelmen kívül hagyni"
+            },
+            {
+              "de": "Um Wiederholung oder Klärung bitten",
+              "hu": "Ismétlést vagy pontosítást kérni"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Bei Unklarheit hilft eine Rückfrage. Reale Betriebsverfahren richten sich nach den Vorschriften.",
+            "hu": "Ha valami nem világos, kérj pontosítást. A valódi forgalmi eljárásokat az előírások határozzák meg."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "title": {
+      "de": "Störungen",
+      "hu": "Üzemzavarok"
+    },
+    "icon": "🔧",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Störung“?",
+            "hu": "Mit jelent a „Störung“?"
+          },
+          "answers": [
+            {
+              "de": "Störung",
+              "hu": "Üzemzavar"
+            },
+            {
+              "de": "Fahrplan",
+              "hu": "Menetrend"
+            },
+            {
+              "de": "Tunnel",
+              "hu": "Alagút"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Eine Störung ist eine Beeinträchtigung des normalen Betriebs.",
+            "hu": "A Störung üzemzavart jelent."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Störung“?",
+            "hu": "Mit jelent a „Störung“?"
+          },
+          "answers": [
+            {
+              "de": "Störung",
+              "hu": "Üzemzavar"
+            },
+            {
+              "de": "Fahrplan",
+              "hu": "Menetrend"
+            },
+            {
+              "de": "Tunnel",
+              "hu": "Alagút"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Eine Störung ist eine Beeinträchtigung des normalen Betriebs.",
+            "hu": "A Störung üzemzavart jelent."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Die Tür ist defekt“?",
+            "hu": "Mit jelent a „Die Tür ist defekt“?"
+          },
+          "answers": [
+            {
+              "de": "Die Tür ist offen.",
+              "hu": "Az ajtó nyitva van."
+            },
+            {
+              "de": "Die Tür ist defekt.",
+              "hu": "Az ajtó meghibásodott."
+            },
+            {
+              "de": "Die Tür ist grün.",
+              "hu": "Az ajtó zöld."
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Defekt bedeutet beschädigt oder nicht funktionsfähig.",
+            "hu": "A defekt meghibásodást jelent."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Die Tür ist defekt“?",
+            "hu": "Mit jelent a „Die Tür ist defekt“?"
+          },
+          "answers": [
+            {
+              "de": "Die Tür ist offen.",
+              "hu": "Az ajtó nyitva van."
+            },
+            {
+              "de": "Die Tür ist defekt.",
+              "hu": "Az ajtó meghibásodott."
+            },
+            {
+              "de": "Die Tür ist grün.",
+              "hu": "Az ajtó zöld."
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Defekt bedeutet beschädigt oder nicht funktionsfähig.",
+            "hu": "A defekt meghibásodást jelent."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Meldung“?",
+            "hu": "Mit jelent a „Meldung“?"
+          },
+          "answers": [
+            {
+              "de": "Verspätung",
+              "hu": "Késés"
+            },
+            {
+              "de": "Gleis",
+              "hu": "Vágány"
+            },
+            {
+              "de": "Mitteilung",
+              "hu": "Jelentés vagy közlés"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Eine Meldung übermittelt eine Information.",
+            "hu": "A Meldung jelentés vagy közlés."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Meldung“?",
+            "hu": "Mit jelent a „Meldung“?"
+          },
+          "answers": [
+            {
+              "de": "Verspätung",
+              "hu": "Késés"
+            },
+            {
+              "de": "Gleis",
+              "hu": "Vágány"
+            },
+            {
+              "de": "Mitteilung",
+              "hu": "Jelentés vagy közlés"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Eine Meldung übermittelt eine Information.",
+            "hu": "A Meldung jelentés vagy közlés."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "title": {
+      "de": "Sicherheitssprache",
+      "hu": "Biztonsági szaknyelv"
+    },
+    "icon": "🦺",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Sicherheit“?",
+            "hu": "Mit jelent a „Sicherheit“?"
+          },
+          "answers": [
+            {
+              "de": "Komfort",
+              "hu": "Kényelem"
+            },
+            {
+              "de": "Sicherheit",
+              "hu": "Biztonság"
+            },
+            {
+              "de": "Geschwindigkeit",
+              "hu": "Sebesség"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Sicherheit ist im Bahnbetrieb wesentlich.",
+            "hu": "A Sicherheit biztonságot jelent."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Sicherheit“?",
+            "hu": "Mit jelent a „Sicherheit“?"
+          },
+          "answers": [
+            {
+              "de": "Komfort",
+              "hu": "Kényelem"
+            },
+            {
+              "de": "Sicherheit",
+              "hu": "Biztonság"
+            },
+            {
+              "de": "Geschwindigkeit",
+              "hu": "Sebesség"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "Sicherheit ist im Bahnbetrieb wesentlich.",
+            "hu": "A Sicherheit biztonságot jelent."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was ist eine Gefahr?",
+            "hu": "Mi a veszély?"
+          },
+          "answers": [
+            {
+              "de": "Eine mögliche Schadensquelle",
+              "hu": "Lehetséges károkozó tényező"
+            },
+            {
+              "de": "Ein Fahrplan",
+              "hu": "Menetrend"
+            },
+            {
+              "de": "Eine Fahrkarte",
+              "hu": "Menetjegy"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Eine Gefahr kann zu Schäden führen.",
+            "hu": "A veszély kárhoz vezethet."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was ist eine Gefahr?",
+            "hu": "Mi a veszély?"
+          },
+          "answers": [
+            {
+              "de": "Eine mögliche Schadensquelle",
+              "hu": "Lehetséges károkozó tényező"
+            },
+            {
+              "de": "Ein Fahrplan",
+              "hu": "Menetrend"
+            },
+            {
+              "de": "Eine Fahrkarte",
+              "hu": "Menetjegy"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Eine Gefahr kann zu Schäden führen.",
+            "hu": "A veszély kárhoz vezethet."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Vorsicht“?",
+            "hu": "Mit jelent a „Vorsicht“?"
+          },
+          "answers": [
+            {
+              "de": "Fahrkarte",
+              "hu": "Menetjegy"
+            },
+            {
+              "de": "Fenster",
+              "hu": "Ablak"
+            },
+            {
+              "de": "Vorsicht, Achtung",
+              "hu": "Óvatosság, vigyázat"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Vorsicht ist ein Hinweis, aufmerksam und umsichtig zu sein.",
+            "hu": "A Vorsicht figyelmeztetés: légy körültekintő."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Vorsicht“?",
+            "hu": "Mit jelent a „Vorsicht“?"
+          },
+          "answers": [
+            {
+              "de": "Fahrkarte",
+              "hu": "Menetjegy"
+            },
+            {
+              "de": "Fenster",
+              "hu": "Ablak"
+            },
+            {
+              "de": "Vorsicht, Achtung",
+              "hu": "Óvatosság, vigyázat"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "Vorsicht ist ein Hinweis, aufmerksam und umsichtig zu sein.",
+            "hu": "A Vorsicht figyelmeztetés: légy körültekintő."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": {
+      "de": "Land und Fachwörter",
+      "hu": "Országok és szakkifejezések"
+    },
+    "icon": "🌍",
+    "questions": [
+      {
+        "at": {
+          "prompt": {
+            "de": "Wofür steht ÖBB?",
+            "hu": "Mit jelent az ÖBB?"
+          },
+          "answers": [
+            {
+              "de": "Österreichische Bundesbahnen",
+              "hu": "Osztrák Szövetségi Vasutak"
+            },
+            {
+              "de": "Öffentliche Busbetriebe Berlin",
+              "hu": "Berlini autóbuszüzem"
+            },
+            {
+              "de": "Oberbayerische Bergbahn",
+              "hu": "Felső-bajor hegyi vasút"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "ÖBB steht für Österreichische Bundesbahnen.",
+            "hu": "Az ÖBB az Österreichische Bundesbahnen rövidítése."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Wofür steht DB?",
+            "hu": "Mit jelent a DB?"
+          },
+          "answers": [
+            {
+              "de": "Donau-Bahnhof",
+              "hu": "Dunai pályaudvar"
+            },
+            {
+              "de": "Deutsche Bahn",
+              "hu": "Német Vasút"
+            },
+            {
+              "de": "Direkte Bremse",
+              "hu": "Közvetlen fék"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "DB steht hier für Deutsche Bahn.",
+            "hu": "A DB itt a Deutsche Bahn rövidítése."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Wie wird Rangierbetrieb in Österreich häufig bezeichnet?",
+            "hu": "Hogy nevezik Ausztriában gyakran a tolatást?"
+          },
+          "answers": [
+            {
+              "de": "Fernverkehr",
+              "hu": "Távolsági közlekedés"
+            },
+            {
+              "de": "Verschub",
+              "hu": "Tolatás (Verschub)"
+            },
+            {
+              "de": "Nachtdienst",
+              "hu": "Éjszakai szolgálat"
+            }
+          ],
+          "correct": 1,
+          "explanation": {
+            "de": "In Österreich wird häufig der Begriff Verschub verwendet.",
+            "hu": "Ausztriában a tolatásra gyakran a Verschub szót használják."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Welcher Begriff wird in Deutschland für Rangierbewegungen verwendet?",
+            "hu": "Melyik fogalmat használják Németországban a tolatásra?"
+          },
+          "answers": [
+            {
+              "de": "Verschiffung",
+              "hu": "Hajózás"
+            },
+            {
+              "de": "Gepäckabgabe",
+              "hu": "Poggyászleadás"
+            },
+            {
+              "de": "Rangieren",
+              "hu": "Tolatás (Rangieren)"
+            }
+          ],
+          "correct": 2,
+          "explanation": {
+            "de": "In Deutschland ist Rangieren ein üblicher Fachbegriff.",
+            "hu": "Németországban a Rangieren gyakori szakkifejezés."
+          }
+        }
+      },
+      {
+        "at": {
+          "prompt": {
+            "de": "Was bedeutet „Triebfahrzeugführer“?",
+            "hu": "Mit jelent a „Triebfahrzeugführer“?"
+          },
+          "answers": [
+            {
+              "de": "Mozdonyvezető",
+              "hu": "Triebfahrzeugführer"
+            },
+            {
+              "de": "Jegyellenőr",
+              "hu": "Fahrkartenkontrolleur"
+            },
+            {
+              "de": "Utas",
+              "hu": "Reisender"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Ein Triebfahrzeugführer führt Triebfahrzeuge.",
+            "hu": "A Triebfahrzeugführer mozdonyvezetőt jelent."
+          }
+        },
+        "de": {
+          "prompt": {
+            "de": "Was bedeutet „Triebfahrzeugführer“?",
+            "hu": "Mit jelent a „Triebfahrzeugführer“?"
+          },
+          "answers": [
+            {
+              "de": "Mozdonyvezető",
+              "hu": "Triebfahrzeugführer"
+            },
+            {
+              "de": "Jegyellenőr",
+              "hu": "Fahrkartenkontrolleur"
+            },
+            {
+              "de": "Utas",
+              "hu": "Reisender"
+            }
+          ],
+          "correct": 0,
+          "explanation": {
+            "de": "Ein Triebfahrzeugführer führt Triebfahrzeuge.",
+            "hu": "A Triebfahrzeugführer mozdonyvezetőt jelent."
+          }
+        }
+      }
+    ]
+  }
+]
