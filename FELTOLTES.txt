@@ -1,0 +1,8 @@
+RailDeutsch v0.7 telepítés
+
+GitHub főmappájába töltsd fel: app.js, index.html, question-bank.json, quiz-v07.css, service-worker.js.
+Ne töröld a meglévő styles.css, music-player.js, rail-music.mp3, manifest.webmanifest és ikonfájlokat.
+Commit changes után várj a GitHub Pages frissülésre, majd Ctrl+Shift+R.
+Figyelem: régi eredmények a régi 3 kérdéses rendszerről értelmüket vesztik.
+A hangfájl jogszerű közzététele a tulajdonos felelőssége.
+A tananyag oktatási célt szolgál, nem helyettesít hivatalos vasútüzemi utasításokat.

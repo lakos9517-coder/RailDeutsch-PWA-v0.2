@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "01",
+    "title": {
+      "de": "Grundbegriffe",
+      "hu": "Vasúti alapfogalmak"
+    },
+    "icon": "🚆",
+    "terms": [
+      {
+        "de": "der Zug",
+        "hu": "a vonat"
+      },
+      {
+        "de": "der Bahnhof",
+        "hu": "a vasútállomás"
+      },
+      {
+        "de": "das Gleis",
+        "hu": "a vágány"
+      },
+      {
+        "de": "die Lokomotive",
+        "hu": "a mozdony"
+      },
+      {
+        "de": "der Triebfahrzeugführer",
+        "hu": "a mozdonyvezető"
+      },
+      {
+        "de": "der Fahrplan",
+        "hu": "a menetrend"
+      },
+      {
+        "de": "die Abfahrt",
+        "hu": "az indulás"
+      },
+      {
+        "de": "die Ankunft",
+        "hu": "az érkezés"
+      },
+      {
+        "de": "die Verspätung",
+        "hu": "a késés"
+      },
+      {
+        "de": "der Wagen",
+        "hu": "a vasúti kocsi"
+      },
+      {
+        "de": "der Bahnsteig",
+        "hu": "a peron"
+      },
+      {
+        "de": "die Strecke",
+        "hu": "a vasútvonal"
+      },
+      {
+        "de": "das Signal",
+        "hu": "a jelző"
+      },
+      {
+        "de": "die Weiche",
+        "hu": "a váltó"
+      },
+      {
+        "de": "die Oberleitung",
+        "hu": "a felsővezeték"
+      },
+      {
+        "de": "die Schiene",
+        "hu": "a sín"
+      },
+      {
+        "de": "die Fahrkarte",
+        "hu": "a menetjegy"
+      },
+      {
+        "de": "das Stellwerk",
+        "hu": "a biztosítóberendezési központ"
+      },
+      {
+        "de": "die Durchsage",
+        "hu": "a hangosbemondás"
+      },
+      {
+        "de": "die Geschwindigkeit",
+        "hu": "a sebesség"
+      },
+      {
+        "de": "die Bremse",
+        "hu": "a fék"
+      },
+      {
+        "de": "die Tür",
+        "hu": "az ajtó"
+      },
+      {
+        "de": "der Führerstand",
+        "hu": "a vezetőállás"
+      },
+      {
+        "de": "der Triebwagen",
+        "hu": "a motorkocsi"
+      },
+      {
+        "de": "die Fahrtrichtung",
+        "hu": "a menetirány"
+      },
+      {
+        "de": "die Zugnummer",
+        "hu": "a vonatszám"
+      },
+      {
+        "de": "die Haltestelle",
+        "hu": "a megállóhely"
+      },
+      {
+        "de": "die Verbindung",
+        "hu": "a csatlakozás"
+      },
+      {
+        "de": "der Anschlusszug",
+        "hu": "a csatlakozó vonat"
+      },
+      {
+        "de": "die Eisenbahn",
+        "hu": "a vasút"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "title": {
+      "de": "Bahnhof und Gleis",
+      "hu": "Állomás és vágány"
+    },
+    "icon": "🚉",
+    "terms": [
+      {
+        "de": "der Bahnsteig",
+        "hu": "a peron"
+      },
+      {
+        "de": "die Bahnsteigkante",
+        "hu": "a peron széle"
+      },
+      {
+        "de": "der Aufzug",
+        "hu": "a lift"
+      },
+      {
+        "de": "die Unterführung",
+        "hu": "az aluljáró"
+      },
+      {
+        "de": "die Überführung",
+        "hu": "a felüljáró"
+      },
+      {
+        "de": "der Ausgang",
+        "hu": "a kijárat"
+      },
+      {
+        "de": "der Eingang",
+        "hu": "a bejárat"
+      },
+      {
+        "de": "die Anzeigetafel",
+        "hu": "a kijelzőtábla"
+      },
+      {
+        "de": "das Gleisende",
+        "hu": "a vágány vége"
+      },
+      {
+        "de": "das Nebengleis",
+        "hu": "a mellékvágány"
+      },
+      {
+        "de": "das Hauptgleis",
+        "hu": "a fővágány"
+      },
+      {
+        "de": "die Weiche",
+        "hu": "a váltó"
+      },
+      {
+        "de": "das Bahnhofsgleis",
+        "hu": "az állomási vágány"
+      },
+      {
+        "de": "das Streckengleis",
+        "hu": "a nyíltvonali vágány"
+      },
+      {
+        "de": "der Fahrdienstleiter",
+        "hu": "a forgalmi szolgálattevő"
+      },
+      {
+        "de": "die Bahnhofshalle",
+        "hu": "az állomáscsarnok"
+      },
+      {
+        "de": "das Wartezimmer",
+        "hu": "a váróterem"
+      },
+      {
+        "de": "der Fahrkartenautomat",
+        "hu": "a jegyautomata"
+      },
+      {
+        "de": "die Information",
+        "hu": "az információs pult"
+      },
+      {
+        "de": "der Zuganzeiger",
+        "hu": "a vonatkijelző"
+      },
+      {
+        "de": "der Treppenaufgang",
+        "hu": "a lépcsőfeljáró"
+      },
+      {
+        "de": "das Empfangsgebäude",
+        "hu": "a felvételi épület"
+      },
+      {
+        "de": "die Gleissperre",
+        "hu": "a vágányzáró sorompó"
+      },
+      {
+        "de": "der Prellbock",
+        "hu": "az ütközőbak"
+      },
+      {
+        "de": "die Rangierfahrt",
+        "hu": "a tolatási menet"
+      },
+      {
+        "de": "der Rangierbahnhof",
+        "hu": "a rendező pályaudvar"
+      },
+      {
+        "de": "die Abfahrtszeit",
+        "hu": "az indulási idő"
+      },
+      {
+        "de": "die Ankunftszeit",
+        "hu": "az érkezési idő"
+      },
+      {
+        "de": "der Bahnübergang",
+        "hu": "a vasúti átjáró"
+      },
+      {
+        "de": "die Fußgängerbrücke",
+        "hu": "a gyalogoshíd"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "title": {
+      "de": "Signale",
+      "hu": "Jelzők"
+    },
+    "icon": "🚦",
+    "terms": [
+      {
+        "de": "das Hauptsignal",
+        "hu": "a főjelző"
+      },
+      {
+        "de": "das Vorsignal",
+        "hu": "az előjelző"
+      },
+      {
+        "de": "das Sperrsignal",
+        "hu": "a tolatásjelző"
+      },
+      {
+        "de": "das Signalbild",
+        "hu": "a jelzési kép"
+      },
+      {
+        "de": "die Haltstellung",
+        "hu": "a megálljt jelző állás"
+      },
+      {
+        "de": "die Fahrtstellung",
+        "hu": "a továbbhaladást engedélyező állás"
+      },
+      {
+        "de": "die Signalbezeichnung",
+        "hu": "a jelző megnevezése"
+      },
+      {
+        "de": "die Signalstörung",
+        "hu": "a jelzőzavar"
+      },
+      {
+        "de": "die Signaltafel",
+        "hu": "a jelzőtábla"
+      },
+      {
+        "de": "das Lichtsignal",
+        "hu": "a fényjelző"
+      },
+      {
+        "de": "das Formsignal",
+        "hu": "az alakjelző"
+      },
+      {
+        "de": "die Warnung",
+        "hu": "a figyelmeztetés"
+      },
+      {
+        "de": "die Langsamfahrstelle",
+        "hu": "a lassújel helye"
+      },
+      {
+        "de": "die Geschwindigkeitsanzeige",
+        "hu": "a sebességjelzés"
+      },
+      {
+        "de": "die Signalüberwachung",
+        "hu": "a jelző ellenőrzése"
+      },
+      {
+        "de": "die Streckenkenntnis",
+        "hu": "a vonalismeret"
+      },
+      {
+        "de": "die Fahrterlaubnis",
+        "hu": "a menetengedély"
+      },
+      {
+        "de": "die Sichtverhältnisse",
+        "hu": "a látási viszonyok"
+      },
+      {
+        "de": "die Signalbeobachtung",
+        "hu": "a jelző megfigyelése"
+      },
+      {
+        "de": "die freie Fahrt",
+        "hu": "a szabad továbbhaladás"
+      },
+      {
+        "de": "der Haltepunkt",
+        "hu": "a megállóhely"
+      },
+      {
+        "de": "die Fahrstraße",
+        "hu": "a vágányút"
+      },
+      {
+        "de": "die Störung",
+        "hu": "a meghibásodás"
+      },
+      {
+        "de": "die Zugbeeinflussung",
+        "hu": "a vonatbefolyásolás"
+      },
+      {
+        "de": "die Bremsung",
+        "hu": "a fékezés"
+      },
+      {
+        "de": "die Sicherheit",
+        "hu": "a biztonság"
+      },
+      {
+        "de": "die Geschwindigkeitstafel",
+        "hu": "a sebességtábla"
+      },
+      {
+        "de": "die Warnanlage",
+        "hu": "a figyelmeztető berendezés"
+      },
+      {
+        "de": "die Streckensperrung",
+        "hu": "a vonal lezárása"
+      },
+      {
+        "de": "die Signalnummer",
+        "hu": "a jelző száma"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "title": {
+      "de": "Fahrplan und Zeit",
+      "hu": "Menetrend és idő"
+    },
+    "icon": "🕒",
+    "terms": [
+      {
+        "de": "pünktlich",
+        "hu": "pontos"
+      },
+      {
+        "de": "die Abfahrt",
+        "hu": "az indulás"
+      },
+      {
+        "de": "die Ankunft",
+        "hu": "az érkezés"
+      },
+      {
+        "de": "die Verspätung",
+        "hu": "a késés"
+      },
+      {
+        "de": "die Fahrzeit",
+        "hu": "a menetidő"
+      },
+      {
+        "de": "die Uhrzeit",
+        "hu": "az időpont"
+      },
+      {
+        "de": "die Minute",
+        "hu": "a perc"
+      },
+      {
+        "de": "die Stunde",
+        "hu": "az óra"
+      },
+      {
+        "de": "der Fahrplan",
+        "hu": "a menetrend"
+      },
+      {
+        "de": "der Umlaufplan",
+        "hu": "a fordulóterv"
+      },
+      {
+        "de": "die Schicht",
+        "hu": "a műszak"
+      },
+      {
+        "de": "die Frühschicht",
+        "hu": "a reggeli műszak"
+      },
+      {
+        "de": "die Nachtschicht",
+        "hu": "az éjszakai műszak"
+      },
+      {
+        "de": "die Pause",
+        "hu": "a szünet"
+      },
+      {
+        "de": "die Fahrplanänderung",
+        "hu": "a menetrendváltozás"
+      },
+      {
+        "de": "die Abfahrtszeit",
+        "hu": "az indulási idő"
+      },
+      {
+        "de": "die Ankunftszeit",
+        "hu": "az érkezési idő"
+      },
+      {
+        "de": "die planmäßige Ankunft",
+        "hu": "a menetrend szerinti érkezés"
+      },
+      {
+        "de": "der Anschluss",
+        "hu": "a csatlakozás"
+      },
+      {
+        "de": "der Umstieg",
+        "hu": "az átszállás"
+      },
+      {
+        "de": "die Wartezeit",
+        "hu": "a várakozási idő"
+      },
+      {
+        "de": "die Zugfolge",
+        "hu": "a vonatkövetés"
+      },
+      {
+        "de": "die Fahrplanlage",
+        "hu": "a menetrendi fekvés"
+      },
+      {
+        "de": "die Dienstzeit",
+        "hu": "a szolgálati idő"
+      },
+      {
+        "de": "die Dienstpause",
+        "hu": "a szolgálati szünet"
+      },
+      {
+        "de": "die Fahrtdauer",
+        "hu": "az utazás időtartama"
+      },
+      {
+        "de": "der Kalender",
+        "hu": "a naptár"
+      },
+      {
+        "de": "der Wochentag",
+        "hu": "a hét napja"
+      },
+      {
+        "de": "die Abfahrtsminute",
+        "hu": "az indulás perce"
+      },
+      {
+        "de": "die Betriebszeit",
+        "hu": "az üzemidő"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "title": {
+      "de": "Fahrzeuge",
+      "hu": "Járművek"
+    },
+    "icon": "🚄",
+    "terms": [
+      {
+        "de": "die Elektrolokomotive",
+        "hu": "a villamos mozdony"
+      },
+      {
+        "de": "die Diesellokomotive",
+        "hu": "a dízelmozdony"
+      },
+      {
+        "de": "der Triebwagen",
+        "hu": "a motorkocsi"
+      },
+      {
+        "de": "der Triebzug",
+        "hu": "a motorvonat"
+      },
+      {
+        "de": "der Reisezugwagen",
+        "hu": "a személykocsi"
+      },
+      {
+        "de": "der Güterwagen",
+        "hu": "a teherkocsi"
+      },
+      {
+        "de": "der Führerstand",
+        "hu": "a vezetőállás"
+      },
+      {
+        "de": "das Drehgestell",
+        "hu": "a forgóváz"
+      },
+      {
+        "de": "die Achse",
+        "hu": "a tengely"
+      },
+      {
+        "de": "das Rad",
+        "hu": "a kerék"
+      },
+      {
+        "de": "der Stromabnehmer",
+        "hu": "az áramszedő"
+      },
+      {
+        "de": "der Antrieb",
+        "hu": "a hajtás"
+      },
+      {
+        "de": "der Motor",
+        "hu": "a motor"
+      },
+      {
+        "de": "die Türsteuerung",
+        "hu": "az ajtóvezérlés"
+      },
+      {
+        "de": "die Kupplung",
+        "hu": "a kapcsolókészülék"
+      },
+      {
+        "de": "die Bremse",
+        "hu": "a fék"
+      },
+      {
+        "de": "die Druckluft",
+        "hu": "a sűrített levegő"
+      },
+      {
+        "de": "der Kompressor",
+        "hu": "a kompresszor"
+      },
+      {
+        "de": "die Fahrzeugnummer",
+        "hu": "a járműszám"
+      },
+      {
+        "de": "die Höchstgeschwindigkeit",
+        "hu": "a legnagyobb sebesség"
+      },
+      {
+        "de": "die Zugheizung",
+        "hu": "a vonatfűtés"
+      },
+      {
+        "de": "die Klimaanlage",
+        "hu": "a légkondicionáló"
+      },
+      {
+        "de": "das Spitzenlicht",
+        "hu": "a homlokvilágítás"
+      },
+      {
+        "de": "das Schlusslicht",
+        "hu": "a zárfény"
+      },
+      {
+        "de": "der Fahrgastraum",
+        "hu": "az utastér"
+      },
+      {
+        "de": "der Maschinenraum",
+        "hu": "a géptér"
+      },
+      {
+        "de": "die Batterie",
+        "hu": "az akkumulátor"
+      },
+      {
+        "de": "die Stromversorgung",
+        "hu": "az áramellátás"
+      },
+      {
+        "de": "der Scheibenwischer",
+        "hu": "az ablaktörlő"
+      },
+      {
+        "de": "das Fahrzeuggewicht",
+        "hu": "a jármű tömege"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "title": {
+      "de": "Bremsen und Sicherheit",
+      "hu": "Fékezés és biztonság"
+    },
+    "icon": "🛑",
+    "terms": [
+      {
+        "de": "die Bremse",
+        "hu": "a fék"
+      },
+      {
+        "de": "die Schnellbremsung",
+        "hu": "a gyorsfékezés"
+      },
+      {
+        "de": "die Notbremsung",
+        "hu": "a vészfékezés"
+      },
+      {
+        "de": "die Betriebsbremsung",
+        "hu": "az üzemi fékezés"
+      },
+      {
+        "de": "der Bremsweg",
+        "hu": "a fékút"
+      },
+      {
+        "de": "die Bremsprobe",
+        "hu": "a fékpróba"
+      },
+      {
+        "de": "der Bremsdruck",
+        "hu": "a féknyomás"
+      },
+      {
+        "de": "die Hauptluftleitung",
+        "hu": "a fővezeték"
+      },
+      {
+        "de": "die Druckluft",
+        "hu": "a sűrített levegő"
+      },
+      {
+        "de": "die Feststellbremse",
+        "hu": "a rögzítőfék"
+      },
+      {
+        "de": "die Sicherheitsprüfung",
+        "hu": "a biztonsági ellenőrzés"
+      },
+      {
+        "de": "die Gefahr",
+        "hu": "a veszély"
+      },
+      {
+        "de": "die Warnung",
+        "hu": "a figyelmeztetés"
+      },
+      {
+        "de": "die Schutzweste",
+        "hu": "a láthatósági mellény"
+      },
+      {
+        "de": "die Schutzbrille",
+        "hu": "a védőszemüveg"
+      },
+      {
+        "de": "die Unfallmeldung",
+        "hu": "a baleset bejelentése"
+      },
+      {
+        "de": "der Sicherheitsabstand",
+        "hu": "a biztonsági távolság"
+      },
+      {
+        "de": "die Evakuierung",
+        "hu": "a kiürítés"
+      },
+      {
+        "de": "der Feuerlöscher",
+        "hu": "a tűzoltó készülék"
+      },
+      {
+        "de": "der Notruf",
+        "hu": "a segélyhívás"
+      },
+      {
+        "de": "die Störung",
+        "hu": "az üzemzavar"
+      },
+      {
+        "de": "die Fehlermeldung",
+        "hu": "a hibaüzenet"
+      },
+      {
+        "de": "die Kontrolle",
+        "hu": "az ellenőrzés"
+      },
+      {
+        "de": "der Stillstand",
+        "hu": "az álló helyzet"
+      },
+      {
+        "de": "die Sichtprüfung",
+        "hu": "a szemrevételezés"
+      },
+      {
+        "de": "die Wartung",
+        "hu": "a karbantartás"
+      },
+      {
+        "de": "die Prüfung",
+        "hu": "a vizsgálat"
+      },
+      {
+        "de": "die Vorschrift",
+        "hu": "az előírás"
+      },
+      {
+        "de": "die Sicherheit",
+        "hu": "a biztonság"
+      },
+      {
+        "de": "die Schutzmaßnahme",
+        "hu": "a védelmi intézkedés"
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "title": {
+      "de": "Kommunikation",
+      "hu": "Kommunikáció"
+    },
+    "icon": "📻",
+    "terms": [
+      {
+        "de": "der Funk",
+        "hu": "a rádiókapcsolat"
+      },
+      {
+        "de": "die Durchsage",
+        "hu": "a hangosbemondás"
+      },
+      {
+        "de": "die Meldung",
+        "hu": "a jelentés"
+      },
+      {
+        "de": "die Rückmeldung",
+        "hu": "a visszajelzés"
+      },
+      {
+        "de": "die Bestätigung",
+        "hu": "a megerősítés"
+      },
+      {
+        "de": "die Verständigung",
+        "hu": "az értesítés"
+      },
+      {
+        "de": "die Frage",
+        "hu": "a kérdés"
+      },
+      {
+        "de": "die Antwort",
+        "hu": "a válasz"
+      },
+      {
+        "de": "die Anweisung",
+        "hu": "az utasítás"
+      },
+      {
+        "de": "die Information",
+        "hu": "a tájékoztatás"
+      },
+      {
+        "de": "die Verbindung",
+        "hu": "a kapcsolat"
+      },
+      {
+        "de": "die Störung",
+        "hu": "a zavar"
+      },
+      {
+        "de": "der Fahrdienstleiter",
+        "hu": "a forgalmi szolgálattevő"
+      },
+      {
+        "de": "der Lokführer",
+        "hu": "a mozdonyvezető"
+      },
+      {
+        "de": "der Zugbegleiter",
+        "hu": "a vonatkísérő"
+      },
+      {
+        "de": "die Leitstelle",
+        "hu": "az irányítóközpont"
+      },
+      {
+        "de": "die Fahrgastinformation",
+        "hu": "az utastájékoztatás"
+      },
+      {
+        "de": "der Notruf",
+        "hu": "a segélyhívás"
+      },
+      {
+        "de": "die Telefonnummer",
+        "hu": "a telefonszám"
+      },
+      {
+        "de": "der Ansprechpartner",
+        "hu": "a kapcsolattartó"
+      },
+      {
+        "de": "die Lautsprecheranlage",
+        "hu": "a hangosító berendezés"
+      },
+      {
+        "de": "die Funkverbindung",
+        "hu": "a rádió-összeköttetés"
+      },
+      {
+        "de": "die Dienstanweisung",
+        "hu": "a szolgálati utasítás"
+      },
+      {
+        "de": "die Nachfrage",
+        "hu": "a visszakérdezés"
+      },
+      {
+        "de": "die Wiederholung",
+        "hu": "az ismétlés"
+      },
+      {
+        "de": "die Zustimmung",
+        "hu": "a hozzájárulás"
+      },
+      {
+        "de": "die Ablehnung",
+        "hu": "az elutasítás"
+      },
+      {
+        "de": "die Nachricht",
+        "hu": "az üzenet"
+      },
+      {
+        "de": "die Verständlichkeit",
+        "hu": "az érthetőség"
+      },
+      {
+        "de": "die Aussprache",
+        "hu": "a kiejtés"
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "title": {
+      "de": "Störungen",
+      "hu": "Üzemzavarok"
+    },
+    "icon": "🔧",
+    "terms": [
+      {
+        "de": "die Störung",
+        "hu": "az üzemzavar"
+      },
+      {
+        "de": "der Defekt",
+        "hu": "a meghibásodás"
+      },
+      {
+        "de": "die Reparatur",
+        "hu": "a javítás"
+      },
+      {
+        "de": "die Fehlermeldung",
+        "hu": "a hibaüzenet"
+      },
+      {
+        "de": "die Ursache",
+        "hu": "az ok"
+      },
+      {
+        "de": "die Lösung",
+        "hu": "a megoldás"
+      },
+      {
+        "de": "die Untersuchung",
+        "hu": "a vizsgálat"
+      },
+      {
+        "de": "die Diagnose",
+        "hu": "a hibamegállapítás"
+      },
+      {
+        "de": "die Werkstatt",
+        "hu": "a műhely"
+      },
+      {
+        "de": "die Instandhaltung",
+        "hu": "a karbantartás"
+      },
+      {
+        "de": "der Stromausfall",
+        "hu": "az áramszünet"
+      },
+      {
+        "de": "die Signalstörung",
+        "hu": "a jelzőzavar"
+      },
+      {
+        "de": "die Weichenstörung",
+        "hu": "a váltóhiba"
+      },
+      {
+        "de": "die Türstörung",
+        "hu": "az ajtóhiba"
+      },
+      {
+        "de": "die Bremsstörung",
+        "hu": "a fékhiba"
+      },
+      {
+        "de": "die Fahrzeugstörung",
+        "hu": "a járműhiba"
+      },
+      {
+        "de": "die Verspätung",
+        "hu": "a késés"
+      },
+      {
+        "de": "der Ersatzverkehr",
+        "hu": "a pótló közlekedés"
+      },
+      {
+        "de": "die Streckensperrung",
+        "hu": "a vonal lezárása"
+      },
+      {
+        "de": "die Langsamfahrt",
+        "hu": "a lassúmenet"
+      },
+      {
+        "de": "die Kontrolle",
+        "hu": "az ellenőrzés"
+      },
+      {
+        "de": "die Rückmeldung",
+        "hu": "a visszajelzés"
+      },
+      {
+        "de": "die Unterbrechung",
+        "hu": "a megszakítás"
+      },
+      {
+        "de": "die Wiederaufnahme",
+        "hu": "az újraindítás"
+      },
+      {
+        "de": "die Ersatzlok",
+        "hu": "a pótlómozdony"
+      },
+      {
+        "de": "das Ersatzteil",
+        "hu": "a pótalkatrész"
+      },
+      {
+        "de": "der Stillstand",
+        "hu": "az álló helyzet"
+      },
+      {
+        "de": "die Betriebsstörung",
+        "hu": "az üzemviteli zavar"
+      },
+      {
+        "de": "die Hilfe",
+        "hu": "a segítség"
+      },
+      {
+        "de": "die Sicherung",
+        "hu": "a biztosítás"
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "title": {
+      "de": "Fahrgäste",
+      "hu": "Utasok"
+    },
+    "icon": "🎫",
+    "terms": [
+      {
+        "de": "der Fahrgast",
+        "hu": "az utas"
+      },
+      {
+        "de": "die Fahrkarte",
+        "hu": "a menetjegy"
+      },
+      {
+        "de": "die Reservierung",
+        "hu": "a helyfoglalás"
+      },
+      {
+        "de": "der Sitzplatz",
+        "hu": "az ülőhely"
+      },
+      {
+        "de": "die erste Klasse",
+        "hu": "az első osztály"
+      },
+      {
+        "de": "die zweite Klasse",
+        "hu": "a másodosztály"
+      },
+      {
+        "de": "der Einstieg",
+        "hu": "a felszállás"
+      },
+      {
+        "de": "der Ausstieg",
+        "hu": "a leszállás"
+      },
+      {
+        "de": "der Umstieg",
+        "hu": "az átszállás"
+      },
+      {
+        "de": "der Anschlusszug",
+        "hu": "a csatlakozó vonat"
+      },
+      {
+        "de": "der Kinderwagen",
+        "hu": "a babakocsi"
+      },
+      {
+        "de": "der Rollstuhl",
+        "hu": "a kerekesszék"
+      },
+      {
+        "de": "das Gepäck",
+        "hu": "a poggyász"
+      },
+      {
+        "de": "der Koffer",
+        "hu": "a bőrönd"
+      },
+      {
+        "de": "die Fahrgastinformation",
+        "hu": "az utastájékoztatás"
+      },
+      {
+        "de": "die Verspätung",
+        "hu": "a késés"
+      },
+      {
+        "de": "die Zugbegleitung",
+        "hu": "a vonatkísérő személyzet"
+      },
+      {
+        "de": "die Fahrkartenkontrolle",
+        "hu": "a jegyellenőrzés"
+      },
+      {
+        "de": "der Fahrschein",
+        "hu": "a menetjegy"
+      },
+      {
+        "de": "die Ermäßigung",
+        "hu": "a kedvezmény"
+      },
+      {
+        "de": "die Beschwerde",
+        "hu": "a panasz"
+      },
+      {
+        "de": "die Hilfe",
+        "hu": "a segítség"
+      },
+      {
+        "de": "die Abfahrtstafel",
+        "hu": "az indulási tábla"
+      },
+      {
+        "de": "die Ankunftstafel",
+        "hu": "az érkezési tábla"
+      },
+      {
+        "de": "das Abteil",
+        "hu": "a fülke"
+      },
+      {
+        "de": "der Speisewagen",
+        "hu": "az étkezőkocsi"
+      },
+      {
+        "de": "die Fahrradmitnahme",
+        "hu": "a kerékpárszállítás"
+      },
+      {
+        "de": "die Platzreservierung",
+        "hu": "a helyfoglalás"
+      },
+      {
+        "de": "die Haltestelle",
+        "hu": "a megállóhely"
+      },
+      {
+        "de": "die Endstation",
+        "hu": "a végállomás"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": {
+      "de": "Berufsalltag",
+      "hu": "Munka és állásinterjú"
+    },
+    "icon": "👷",
+    "terms": [
+      {
+        "de": "die Bewerbung",
+        "hu": "az álláspályázat"
+      },
+      {
+        "de": "das Vorstellungsgespräch",
+        "hu": "az állásinterjú"
+      },
+      {
+        "de": "der Lebenslauf",
+        "hu": "az önéletrajz"
+      },
+      {
+        "de": "die Berufserfahrung",
+        "hu": "a szakmai tapasztalat"
+      },
+      {
+        "de": "die Ausbildung",
+        "hu": "a képzés"
+      },
+      {
+        "de": "die Qualifikation",
+        "hu": "a képesítés"
+      },
+      {
+        "de": "die Schichtarbeit",
+        "hu": "a műszakos munka"
+      },
+      {
+        "de": "die Verantwortung",
+        "hu": "a felelősség"
+      },
+      {
+        "de": "die Zuverlässigkeit",
+        "hu": "a megbízhatóság"
+      },
+      {
+        "de": "die Pünktlichkeit",
+        "hu": "a pontosság"
+      },
+      {
+        "de": "die Teamarbeit",
+        "hu": "a csapatmunka"
+      },
+      {
+        "de": "die Sicherheit",
+        "hu": "a biztonság"
+      },
+      {
+        "de": "die Aufmerksamkeit",
+        "hu": "a figyelem"
+      },
+      {
+        "de": "die Belastbarkeit",
+        "hu": "a terhelhetőség"
+      },
+      {
+        "de": "die Eignungsprüfung",
+        "hu": "az alkalmassági vizsgálat"
+      },
+      {
+        "de": "die Sprachkenntnisse",
+        "hu": "a nyelvtudás"
+      },
+      {
+        "de": "die Weiterbildung",
+        "hu": "a továbbképzés"
+      },
+      {
+        "de": "die Erfahrung",
+        "hu": "a tapasztalat"
+      },
+      {
+        "de": "die Dienstanweisung",
+        "hu": "a szolgálati utasítás"
+      },
+      {
+        "de": "die Dienstschicht",
+        "hu": "a szolgálati műszak"
+      },
+      {
+        "de": "der Arbeitgeber",
+        "hu": "a munkáltató"
+      },
+      {
+        "de": "der Arbeitnehmer",
+        "hu": "a munkavállaló"
+      },
+      {
+        "de": "der Arbeitsvertrag",
+        "hu": "a munkaszerződés"
+      },
+      {
+        "de": "die Probezeit",
+        "hu": "a próbaidő"
+      },
+      {
+        "de": "die Arbeitszeit",
+        "hu": "a munkaidő"
+      },
+      {
+        "de": "die Dienstplanung",
+        "hu": "a szolgálatbeosztás"
+      },
+      {
+        "de": "die Rückfrage",
+        "hu": "a visszakérdezés"
+      },
+      {
+        "de": "die Rückmeldung",
+        "hu": "a visszajelzés"
+      },
+      {
+        "de": "die Zusammenarbeit",
+        "hu": "az együttműködés"
+      },
+      {
+        "de": "das Lernziel",
+        "hu": "a tanulási cél"
+      }
+    ]
+  }
+]
