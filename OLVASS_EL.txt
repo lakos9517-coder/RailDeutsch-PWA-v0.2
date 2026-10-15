@@ -1,0 +1,8 @@
+RailDeutsch v0.5 – háttérzene csak a kezdőképernyőn
+
+1. index.html, music-player.js, service-worker.js a GitHub tároló FŐMAPPÁJÁBA.
+2. Ha rendelkezésedre áll a zene GitHub Pages-en való nyilvános közzétételéhez szükséges engedély, a választott hangfájlt rail-music.mp3 néven töltheted fel ugyanoda.
+3. GitHub Commit changes, várd meg a Pages frissülését; utána böngészőben hard refresh.
+4. A zene gombnyomásra indul, a leckék megnyitásakor megáll, a kezdőképernyőre visszatérve folytatódhat. A némítás és hangerő megmarad.
+
+Az MP3 nem része a csomagnak, mert a zene nyilvános terjesztési engedélyét nem ellenőriztük.
