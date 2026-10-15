@@ -1,8 +1,16 @@
-RailDeutsch v0.5 – háttérzene csak a kezdőképernyőn
+RailDeutsch v0.6 – üdvözlőképernyő és kezdőlap-zene
 
-1. index.html, music-player.js, service-worker.js a GitHub tároló FŐMAPPÁJÁBA.
-2. Ha rendelkezésedre áll a zene GitHub Pages-en való nyilvános közzétételéhez szükséges engedély, a választott hangfájlt rail-music.mp3 néven töltheted fel ugyanoda.
-3. GitHub Commit changes, várd meg a Pages frissülését; utána böngészőben hard refresh.
-4. A zene gombnyomásra indul, a leckék megnyitásakor megáll, a kezdőképernyőre visszatérve folytatódhat. A némítás és hangerő megmarad.
+1. Nyisd meg a GitHubon: https://github.com/lakos9517-coder/RailDeutsch-PWA-v0.2
+2. A main ág FŐMAPPÁJÁBA töltsd fel a ZIP-ből ezt a három fájlt:
+   index.html, music-player.js, service-worker.js
+3. GitHubon véglegesítsd a feltöltést: Commit changes.
+4. A régi app.js, styles.css, lessons.json és egyéb fájlokat NE töröld.
+5. A rail-music.mp3 fájlnak is a főmappában kell lennie. Ez a ZIP
+   NEM tartalmaz zenét: a nyilvános tárolóban csak jogosult MP3 legyen.
+6. Nyisd meg a GitHub Pages címet, várd meg az új telepítést,
+   majd Windows alatt Ctrl+Shift+R. Telepített PWA esetén szükség
+   lehet a régi gyorsítótár törlésére vagy az app újraindítására.
 
-Az MP3 nem része a csomagnak, mert a zene nyilvános terjesztési engedélyét nem ellenőriztük.
+A "Lernen starten" gomb elindítja a zenét és megnyitja a kezdőlapot.
+A leckébe lépve a zene szünetel, visszatérve folytatódhat.
+A hangerő és némítás beállításait a böngésző elmenti.
