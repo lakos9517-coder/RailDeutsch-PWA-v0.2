@@ -1,0 +1,5 @@
+.rd11-choice{display:grid;gap:10px;justify-items:center;margin:14px auto 22px;color:inherit}
+.rd11-choice>span{font-weight:700;font-size:15px}
+.rd11-choice>div{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
+.rd11-choice button{border:1px solid #86b4bd;border-radius:12px;background:#123e4d;color:#fff;padding:11px 16px;min-width:116px;cursor:pointer}
+.rd11-choice button[aria-pressed="true"]{background:#b8e9dd;color:#103b48;border-color:#b8e9dd;font-weight:800}
