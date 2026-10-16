@@ -1,0 +1,6 @@
+/* RailDeutsch: show learning modules on the ten-lesson home screen only */
+#rd-learning-tools { margin: 22px 0 20px; border: 1px solid rgba(103,156,167,.3); border-radius: 16px; padding: 18px; background: rgba(103,156,167,.09); display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+#rd-learning-tools h2 { flex-basis: 100%; margin: 0; font-size: 1.2rem; }
+#rd-learning-tools p { flex-basis: 100%; margin: 0 0 4px; opacity: .76; font-size: .92rem; }
+#rd-learning-tools .rd-tools-launch { position: static !important; inset: auto !important; right: auto !important; left: auto !important; bottom: auto !important; transform: none !important; margin: 0 !important; z-index: auto !important; flex: 1 1 190px; min-height: 52px; justify-content: center; align-items: center; text-align: center; border-radius: 12px; font-size: 1rem; cursor: pointer; }
+body > .rd-tools-launch { display: none !important; }
