@@ -3,8 +3,8 @@
   'use strict';
   if (window.__rdSupport) return;
   window.__rdSupport = true;
-  // Add the verified public Ko-fi page URL here when it is available.
-  const KOFI_URL = '';
+  // RailDeutsch creator's public Ko-fi support page.
+  const KOFI_URL = 'https://ko-fi.com/petiraildeutsch';
   const LANG_KEY = 'raildeutsch-interface-v11';
   const locale = () => localStorage.getItem(LANG_KEY) === 'de' ? 'de' : 'hu';
   const copy = {
