@@ -1,0 +1,6 @@
+/* Integrated learning shortcuts remain inside the lesson menu. */
+#rd-learning-tools{background:#f1f9fa;color:#173d49;border:1px solid #c5dce1;border-radius:16px;padding:16px;margin:18px 0;}
+#rd-learning-tools h2{font-size:18px;margin:0 0 6px}#rd-learning-tools p{margin:0 0 12px}
+#rd-learning-tools .rd-tools-grid{display:flex;gap:10px;flex-wrap:wrap}
+#rd-learning-tools button{display:inline-flex!important;position:static!important;inset:auto!important;flex:1 1 160px;justify-content:center;align-items:center;border-radius:12px;padding:13px!important;min-width:140px;cursor:pointer}
+#bw09-launch[hidden],#rd10-launch[hidden]{display:none!important}
