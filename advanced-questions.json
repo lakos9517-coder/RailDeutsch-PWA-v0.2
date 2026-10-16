@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "01",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Zug fährt heute vom Hauptbahnhof ab. Was fährt ab?",
+          "hu": "Mi indul ma a főpályaudvarról?"
+        },
+        "choices": {
+          "de": [
+            "der Zug",
+            "der Bus",
+            "das Fahrrad",
+            "das Flugzeug"
+          ],
+          "hu": [
+            "a vonat",
+            "a busz",
+            "a kerékpár",
+            "a repülőgép"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: der Zug.",
+          "hu": "Helyes válasz: a vonat."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Am Bahnhof warten viele Menschen. Wo warten sie?",
+          "hu": "Hol várakoznak az emberek?"
+        },
+        "choices": {
+          "de": [
+            "am Bahnhof",
+            "im Zug",
+            "im Tunnel",
+            "im Büro"
+          ],
+          "hu": [
+            "a pályaudvaron",
+            "a vonaton",
+            "az alagútban",
+            "az irodában"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: am Bahnhof.",
+          "hu": "Helyes válasz: a pályaudvaron."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Lokführer führt den Zug. Wer führt den Zug?",
+          "hu": "Ki vezeti a vonatot?"
+        },
+        "choices": {
+          "de": [
+            "der Lokführer",
+            "der Fahrgast",
+            "der Koch",
+            "der Verkäufer"
+          ],
+          "hu": [
+            "a mozdonyvezető",
+            "az utas",
+            "a szakács",
+            "az eladó"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: der Lokführer.",
+          "hu": "Helyes válasz: a mozdonyvezető."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚆",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "der Zug",
+            "der Bahnhof",
+            "das Signal",
+            "die Uhr"
+          ],
+          "hu": [
+            "a vonat",
+            "az állomás",
+            "a jelző",
+            "az óra"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Zug.",
+          "hu": "A rajzon ez látható: a vonat."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚆",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "der Zug",
+            "das Signal",
+            "die Uhr",
+            "der Wagen"
+          ],
+          "hu": [
+            "a vonat",
+            "a jelző",
+            "az óra",
+            "a kocsi"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Zug.",
+          "hu": "A rajzon ez látható: a vonat."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚆",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "der Zug",
+            "die Uhr",
+            "der Wagen",
+            "die Bremse"
+          ],
+          "hu": [
+            "a vonat",
+            "az óra",
+            "a kocsi",
+            "a fék"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Zug.",
+          "hu": "A rajzon ez látható: a vonat."
+        }
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Zug hält an Gleis vier. Wo hält der Zug?",
+          "hu": "Hol áll meg a vonat?"
+        },
+        "choices": {
+          "de": [
+            "an Gleis vier",
+            "an Gleis zwei",
+            "im Depot",
+            "am Parkplatz"
+          ],
+          "hu": [
+            "a negyedik vágánynál",
+            "a második vágánynál",
+            "a járműtelepen",
+            "a parkolóban"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: an Gleis vier.",
+          "hu": "Helyes válasz: a negyedik vágánynál."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Reisenden warten auf dem Bahnsteig. Wo warten sie?",
+          "hu": "Hol várakoznak az utasok?"
+        },
+        "choices": {
+          "de": [
+            "auf dem Bahnsteig",
+            "im Führerstand",
+            "im Tunnel",
+            "im Büro"
+          ],
+          "hu": [
+            "a peronon",
+            "a vezetőálláson",
+            "az alagútban",
+            "az irodában"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: auf dem Bahnsteig.",
+          "hu": "Helyes válasz: a peronon."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Aufzug am Bahnhof ist defekt. Was ist defekt?",
+          "hu": "Mi hibásodott meg az állomáson?"
+        },
+        "choices": {
+          "de": [
+            "der Aufzug",
+            "der Zug",
+            "der Fahrplan",
+            "das Gleis"
+          ],
+          "hu": [
+            "a lift",
+            "a vonat",
+            "a menetrend",
+            "a vágány"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: der Aufzug.",
+          "hu": "Helyes válasz: a lift."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚉",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "der Bahnhof",
+            "das Signal",
+            "die Uhr",
+            "der Wagen"
+          ],
+          "hu": [
+            "az állomás",
+            "a jelző",
+            "az óra",
+            "a kocsi"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Bahnhof.",
+          "hu": "A rajzon ez látható: az állomás."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚉",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "der Bahnhof",
+            "die Uhr",
+            "der Wagen",
+            "die Bremse"
+          ],
+          "hu": [
+            "az állomás",
+            "az óra",
+            "a kocsi",
+            "a fék"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Bahnhof.",
+          "hu": "A rajzon ez látható: az állomás."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚉",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "der Bahnhof",
+            "der Wagen",
+            "die Bremse",
+            "der Funk"
+          ],
+          "hu": [
+            "az állomás",
+            "a kocsi",
+            "a fék",
+            "a rádiókapcsolat"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Bahnhof.",
+          "hu": "A rajzon ez látható: az állomás."
+        }
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Das Signal zeigt Rot. Welche Farbe zeigt es?",
+          "hu": "Milyen színt mutat a jelző?"
+        },
+        "choices": {
+          "de": [
+            "Rot",
+            "Grün",
+            "Gelb",
+            "Blau"
+          ],
+          "hu": [
+            "pirosat",
+            "zöldet",
+            "sárgát",
+            "kéket"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: Rot.",
+          "hu": "Helyes válasz: pirosat."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Vor dem Signal steht ein Zug. Wo steht der Zug?",
+          "hu": "Hol áll a vonat?"
+        },
+        "choices": {
+          "de": [
+            "vor dem Signal",
+            "hinter dem Bahnhof",
+            "im Tunnel",
+            "neben dem Büro"
+          ],
+          "hu": [
+            "a jelző előtt",
+            "az állomás mögött",
+            "az alagútban",
+            "az iroda mellett"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: vor dem Signal.",
+          "hu": "Helyes válasz: a jelző előtt."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Ein Vorsignal kündigt ein Hauptsignal an. Was wird angekündigt?",
+          "hu": "Mit jelez előre az előjelző?"
+        },
+        "choices": {
+          "de": [
+            "ein Hauptsignal",
+            "ein Bahnsteig",
+            "eine Fahrkarte",
+            "eine Tür"
+          ],
+          "hu": [
+            "egy főjelzőt",
+            "egy peront",
+            "egy menetjegyet",
+            "egy ajtót"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: ein Hauptsignal.",
+          "hu": "Helyes válasz: egy főjelzőt."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚦",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "das Signal",
+            "die Uhr",
+            "der Wagen",
+            "die Bremse"
+          ],
+          "hu": [
+            "a jelző",
+            "az óra",
+            "a kocsi",
+            "a fék"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: das Signal.",
+          "hu": "A rajzon ez látható: a jelző."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚦",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "das Signal",
+            "der Wagen",
+            "die Bremse",
+            "der Funk"
+          ],
+          "hu": [
+            "a jelző",
+            "a kocsi",
+            "a fék",
+            "a rádiókapcsolat"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: das Signal.",
+          "hu": "A rajzon ez látható: a jelző."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚦",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "das Signal",
+            "die Bremse",
+            "der Funk",
+            "die Störung"
+          ],
+          "hu": [
+            "a jelző",
+            "a fék",
+            "a rádiókapcsolat",
+            "az üzemzavar"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: das Signal.",
+          "hu": "A rajzon ez látható: a jelző."
+        }
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Abfahrt ist um 08:15 Uhr. Wann fährt der Zug ab?",
+          "hu": "Mikor indul a vonat?"
+        },
+        "choices": {
+          "de": [
+            "um 08:15 Uhr",
+            "um 08:50 Uhr",
+            "um 18:15 Uhr",
+            "um 07:15 Uhr"
+          ],
+          "hu": [
+            "08:15-kor",
+            "08:50-kor",
+            "18:15-kor",
+            "07:15-kor"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: um 08:15 Uhr.",
+          "hu": "Helyes válasz: 08:15-kor."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Zug hat zehn Minuten Verspätung. Was hat der Zug?",
+          "hu": "Mi jellemzi a vonatot?"
+        },
+        "choices": {
+          "de": [
+            "zehn Minuten Verspätung",
+            "zehn Minuten Aufenthalt",
+            "eine neue Nummer",
+            "einen freien Platz"
+          ],
+          "hu": [
+            "tíz perc késése van",
+            "tíz perc tartózkodási ideje van",
+            "új száma van",
+            "szabad helye van"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: zehn Minuten Verspätung.",
+          "hu": "Helyes válasz: tíz perc késése van."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Ankunft ist später als geplant. Was ist später?",
+          "hu": "Mi történik a tervezettnél később?"
+        },
+        "choices": {
+          "de": [
+            "die Ankunft",
+            "die Abfahrt",
+            "die Pause",
+            "der Unterricht"
+          ],
+          "hu": [
+            "az érkezés",
+            "az indulás",
+            "a szünet",
+            "a tanóra"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: die Ankunft.",
+          "hu": "Helyes válasz: az érkezés."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🕒",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "die Uhr",
+            "der Wagen",
+            "die Bremse",
+            "der Funk"
+          ],
+          "hu": [
+            "az óra",
+            "a kocsi",
+            "a fék",
+            "a rádiókapcsolat"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Uhr.",
+          "hu": "A rajzon ez látható: az óra."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🕒",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "die Uhr",
+            "die Bremse",
+            "der Funk",
+            "die Störung"
+          ],
+          "hu": [
+            "az óra",
+            "a fék",
+            "a rádiókapcsolat",
+            "az üzemzavar"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Uhr.",
+          "hu": "A rajzon ez látható: az óra."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🕒",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "die Uhr",
+            "der Funk",
+            "die Störung",
+            "die Fahrkarte"
+          ],
+          "hu": [
+            "az óra",
+            "a rádiókapcsolat",
+            "az üzemzavar",
+            "a menetjegy"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Uhr.",
+          "hu": "A rajzon ez látható: az óra."
+        }
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Lokomotive zieht fünf Wagen. Wie viele Wagen zieht sie?",
+          "hu": "Hány kocsit húz a mozdony?"
+        },
+        "choices": {
+          "de": [
+            "fünf",
+            "drei",
+            "acht",
+            "zehn"
+          ],
+          "hu": [
+            "öt",
+            "három",
+            "nyolc",
+            "tíz"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: fünf.",
+          "hu": "Helyes válasz: öt."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Triebwagen hat einen Führerstand. Was hat der Triebwagen?",
+          "hu": "Mi található a motorkocsiban?"
+        },
+        "choices": {
+          "de": [
+            "einen Führerstand",
+            "eine Küche",
+            "ein Schlafzimmer",
+            "einen Aufzug"
+          ],
+          "hu": [
+            "egy vezetőállás",
+            "egy konyha",
+            "egy hálószoba",
+            "egy lift"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: einen Führerstand.",
+          "hu": "Helyes válasz: egy vezetőállás."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Wagen stehen auf dem Abstellgleis. Wo stehen sie?",
+          "hu": "Hol állnak a kocsik?"
+        },
+        "choices": {
+          "de": [
+            "auf dem Abstellgleis",
+            "auf der Straße",
+            "am Flughafen",
+            "im Büro"
+          ],
+          "hu": [
+            "a tárolóvágányon",
+            "az úton",
+            "a repülőtéren",
+            "az irodában"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: auf dem Abstellgleis.",
+          "hu": "Helyes válasz: a tárolóvágányon."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚃",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "der Wagen",
+            "die Bremse",
+            "der Funk",
+            "die Störung"
+          ],
+          "hu": [
+            "a kocsi",
+            "a fék",
+            "a rádiókapcsolat",
+            "az üzemzavar"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Wagen.",
+          "hu": "A rajzon ez látható: a kocsi."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚃",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "der Wagen",
+            "der Funk",
+            "die Störung",
+            "die Fahrkarte"
+          ],
+          "hu": [
+            "a kocsi",
+            "a rádiókapcsolat",
+            "az üzemzavar",
+            "a menetjegy"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Wagen.",
+          "hu": "A rajzon ez látható: a kocsi."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🚃",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "der Wagen",
+            "die Störung",
+            "die Fahrkarte",
+            "der Mitarbeiter"
+          ],
+          "hu": [
+            "a kocsi",
+            "az üzemzavar",
+            "a menetjegy",
+            "a munkatárs"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Wagen.",
+          "hu": "A rajzon ez látható: a kocsi."
+        }
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Vor der Fahrt wird die Bremse geprüft. Was wird geprüft?",
+          "hu": "Mit ellenőriznek az indulás előtt?"
+        },
+        "choices": {
+          "de": [
+            "die Bremse",
+            "die Fahrkarte",
+            "die Kaffeemaschine",
+            "das Ticket"
+          ],
+          "hu": [
+            "a féket",
+            "a menetjegyet",
+            "a kávéfőzőt",
+            "a jegyet"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: die Bremse.",
+          "hu": "Helyes válasz: a féket."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Tür muss vor der Abfahrt geschlossen sein. Wie muss sie sein?",
+          "hu": "Milyen állapotban kell lennie az ajtónak indulás előtt?"
+        },
+        "choices": {
+          "de": [
+            "geschlossen",
+            "offen",
+            "beschädigt",
+            "entfernt"
+          ],
+          "hu": [
+            "zárva",
+            "nyitva",
+            "sérülten",
+            "leszerelve"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: geschlossen.",
+          "hu": "Helyes válasz: zárva."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Lokführer meldet eine Störung. Was meldet er?",
+          "hu": "Mit jelent a mozdonyvezető?"
+        },
+        "choices": {
+          "de": [
+            "eine Störung",
+            "eine Bestellung",
+            "eine Reservierung",
+            "eine Einladung"
+          ],
+          "hu": [
+            "egy üzemzavart",
+            "egy rendelést",
+            "egy foglalást",
+            "egy meghívást"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: eine Störung.",
+          "hu": "Helyes válasz: egy üzemzavart."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🛑",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "die Bremse",
+            "der Funk",
+            "die Störung",
+            "die Fahrkarte"
+          ],
+          "hu": [
+            "a fék",
+            "a rádiókapcsolat",
+            "az üzemzavar",
+            "a menetjegy"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Bremse.",
+          "hu": "A rajzon ez látható: a fék."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🛑",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "die Bremse",
+            "die Störung",
+            "die Fahrkarte",
+            "der Mitarbeiter"
+          ],
+          "hu": [
+            "a fék",
+            "az üzemzavar",
+            "a menetjegy",
+            "a munkatárs"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Bremse.",
+          "hu": "A rajzon ez látható: a fék."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🛑",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "die Bremse",
+            "die Fahrkarte",
+            "der Mitarbeiter",
+            "der Zug"
+          ],
+          "hu": [
+            "a fék",
+            "a menetjegy",
+            "a munkatárs",
+            "a vonat"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Bremse.",
+          "hu": "A rajzon ez látható: a fék."
+        }
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Fahrdienstleiter ruft den Lokführer an. Wen ruft er an?",
+          "hu": "Kit hív a forgalmi szolgálattevő?"
+        },
+        "choices": {
+          "de": [
+            "den Lokführer",
+            "den Koch",
+            "den Arzt",
+            "den Fahrgast"
+          ],
+          "hu": [
+            "a mozdonyvezetőt",
+            "a szakácsot",
+            "az orvost",
+            "az utast"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: den Lokführer.",
+          "hu": "Helyes válasz: a mozdonyvezetőt."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Information kommt über Funk. Wie kommt sie?",
+          "hu": "Hogyan érkezik az információ?"
+        },
+        "choices": {
+          "de": [
+            "über Funk",
+            "per Brief",
+            "über eine Zeitung",
+            "per Postkarte"
+          ],
+          "hu": [
+            "rádión",
+            "levélben",
+            "újságon keresztül",
+            "képeslapon"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: über Funk.",
+          "hu": "Helyes válasz: rádión."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Durchsage informiert die Fahrgäste. Wen informiert sie?",
+          "hu": "Kiket tájékoztat a hangosbemondás?"
+        },
+        "choices": {
+          "de": [
+            "die Fahrgäste",
+            "die Mechaniker",
+            "die Köche",
+            "die Lehrer"
+          ],
+          "hu": [
+            "az utasokat",
+            "a szerelőket",
+            "a szakácsokat",
+            "a tanárokat"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: die Fahrgäste.",
+          "hu": "Helyes válasz: az utasokat."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "📻",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "der Funk",
+            "die Störung",
+            "die Fahrkarte",
+            "der Mitarbeiter"
+          ],
+          "hu": [
+            "a rádiókapcsolat",
+            "az üzemzavar",
+            "a menetjegy",
+            "a munkatárs"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Funk.",
+          "hu": "A rajzon ez látható: a rádiókapcsolat."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "📻",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "der Funk",
+            "die Fahrkarte",
+            "der Mitarbeiter",
+            "der Zug"
+          ],
+          "hu": [
+            "a rádiókapcsolat",
+            "a menetjegy",
+            "a munkatárs",
+            "a vonat"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Funk.",
+          "hu": "A rajzon ez látható: a rádiókapcsolat."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "📻",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "der Funk",
+            "der Mitarbeiter",
+            "der Zug",
+            "der Bahnhof"
+          ],
+          "hu": [
+            "a rádiókapcsolat",
+            "a munkatárs",
+            "a vonat",
+            "az állomás"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Funk.",
+          "hu": "A rajzon ez látható: a rádiókapcsolat."
+        }
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Tür lässt sich nicht öffnen. Was ist das Problem?",
+          "hu": "Mi a probléma?"
+        },
+        "choices": {
+          "de": [
+            "Die Tür lässt sich nicht öffnen.",
+            "Der Zug ist pünktlich.",
+            "Der Zug fährt ab.",
+            "Die Anzeige ist neu."
+          ],
+          "hu": [
+            "Az ajtó nem nyitható.",
+            "A vonat pontos.",
+            "A vonat elindul.",
+            "A kijelző új."
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: Die Tür lässt sich nicht öffnen..",
+          "hu": "Helyes válasz: Az ajtó nem nyitható.."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Motor funktioniert nicht. Was funktioniert nicht?",
+          "hu": "Mi nem működik?"
+        },
+        "choices": {
+          "de": [
+            "der Motor",
+            "die Uhr",
+            "das Licht",
+            "die Klimaanlage"
+          ],
+          "hu": [
+            "a motor",
+            "az óra",
+            "a lámpa",
+            "a légkondicionáló"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: der Motor.",
+          "hu": "Helyes válasz: a motor."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Wegen einer Störung fällt der Zug aus. Was passiert?",
+          "hu": "Mi történik az üzemzavar miatt?"
+        },
+        "choices": {
+          "de": [
+            "Der Zug fällt aus.",
+            "Der Zug fährt früher.",
+            "Der Zug wird länger.",
+            "Der Zug fährt schneller."
+          ],
+          "hu": [
+            "A vonat kimarad.",
+            "A vonat korábban indul.",
+            "A vonat hosszabb lesz.",
+            "A vonat gyorsabban halad."
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: Der Zug fällt aus..",
+          "hu": "Helyes válasz: A vonat kimarad.."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "⚠️",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "die Störung",
+            "die Fahrkarte",
+            "der Mitarbeiter",
+            "der Zug"
+          ],
+          "hu": [
+            "az üzemzavar",
+            "a menetjegy",
+            "a munkatárs",
+            "a vonat"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Störung.",
+          "hu": "A rajzon ez látható: az üzemzavar."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "⚠️",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "die Störung",
+            "der Mitarbeiter",
+            "der Zug",
+            "der Bahnhof"
+          ],
+          "hu": [
+            "az üzemzavar",
+            "a munkatárs",
+            "a vonat",
+            "az állomás"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Störung.",
+          "hu": "A rajzon ez látható: az üzemzavar."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "⚠️",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "die Störung",
+            "der Zug",
+            "der Bahnhof",
+            "das Signal"
+          ],
+          "hu": [
+            "az üzemzavar",
+            "a vonat",
+            "az állomás",
+            "a jelző"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Störung.",
+          "hu": "A rajzon ez látható: az üzemzavar."
+        }
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Reisende kauft eine Fahrkarte. Was kauft sie?",
+          "hu": "Mit vásárol az utas?"
+        },
+        "choices": {
+          "de": [
+            "eine Fahrkarte",
+            "ein Fahrrad",
+            "eine Zeitung",
+            "einen Koffer"
+          ],
+          "hu": [
+            "egy menetjegyet",
+            "egy kerékpárt",
+            "egy újságot",
+            "egy bőröndöt"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: eine Fahrkarte.",
+          "hu": "Helyes válasz: egy menetjegyet."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Fahrgast fragt nach dem Anschluss. Wonach fragt er?",
+          "hu": "Miről érdeklődik az utas?"
+        },
+        "choices": {
+          "de": [
+            "nach dem Anschluss",
+            "nach dem Wetter",
+            "nach dem Essen",
+            "nach der Musik"
+          ],
+          "hu": [
+            "a csatlakozásról",
+            "az időjárásról",
+            "az ételről",
+            "a zenéről"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: nach dem Anschluss.",
+          "hu": "Helyes válasz: a csatlakozásról."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Tür öffnet sich am Bahnsteig. Wo öffnet sie sich?",
+          "hu": "Hol nyílik ki az ajtó?"
+        },
+        "choices": {
+          "de": [
+            "am Bahnsteig",
+            "im Tunnel",
+            "im Depot",
+            "im Büro"
+          ],
+          "hu": [
+            "a peronnál",
+            "az alagútban",
+            "a járműtelepen",
+            "az irodában"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: am Bahnsteig.",
+          "hu": "Helyes válasz: a peronnál."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🎫",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "die Fahrkarte",
+            "der Mitarbeiter",
+            "der Zug",
+            "der Bahnhof"
+          ],
+          "hu": [
+            "a menetjegy",
+            "a munkatárs",
+            "a vonat",
+            "az állomás"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Fahrkarte.",
+          "hu": "A rajzon ez látható: a menetjegy."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🎫",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "die Fahrkarte",
+            "der Zug",
+            "der Bahnhof",
+            "das Signal"
+          ],
+          "hu": [
+            "a menetjegy",
+            "a vonat",
+            "az állomás",
+            "a jelző"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Fahrkarte.",
+          "hu": "A rajzon ez látható: a menetjegy."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "🎫",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "die Fahrkarte",
+            "der Bahnhof",
+            "das Signal",
+            "die Uhr"
+          ],
+          "hu": [
+            "a menetjegy",
+            "az állomás",
+            "a jelző",
+            "az óra"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: die Fahrkarte.",
+          "hu": "A rajzon ez látható: a menetjegy."
+        }
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "questions": [
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Im Vorstellungsgespräch beschreibt er seine Berufserfahrung. Was beschreibt er?",
+          "hu": "Mit ismertet az állásinterjún?"
+        },
+        "choices": {
+          "de": [
+            "seine Berufserfahrung",
+            "seinen Urlaub",
+            "sein Frühstück",
+            "sein Fahrrad"
+          ],
+          "hu": [
+            "a szakmai tapasztalatát",
+            "a nyaralását",
+            "a reggelijét",
+            "a kerékpárját"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: seine Berufserfahrung.",
+          "hu": "Helyes válasz: a szakmai tapasztalatát."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Die Bewerberin kann im Schichtdienst arbeiten. Wann kann sie arbeiten?",
+          "hu": "Milyen munkarendben tud dolgozni a jelentkező?"
+        },
+        "choices": {
+          "de": [
+            "im Schichtdienst",
+            "nur am Wochenende",
+            "nur im Urlaub",
+            "nur am Montag"
+          ],
+          "hu": [
+            "műszakos munkarendben",
+            "csak hétvégén",
+            "csak szabadság alatt",
+            "csak hétfőn"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: im Schichtdienst.",
+          "hu": "Helyes válasz: műszakos munkarendben."
+        }
+      },
+      {
+        "kind": "sentence",
+        "prompt": {
+          "de": "Der Kollege ist für die Sicherheit verantwortlich. Wofür ist er verantwortlich?",
+          "hu": "Miért felelős a kolléga?"
+        },
+        "choices": {
+          "de": [
+            "für die Sicherheit",
+            "für die Dekoration",
+            "für die Werbung",
+            "für den Kaffee"
+          ],
+          "hu": [
+            "a biztonságért",
+            "a díszítésért",
+            "a reklámért",
+            "a kávéért"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Richtig: für die Sicherheit.",
+          "hu": "Helyes válasz: a biztonságért."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "👷",
+        "prompt": {
+          "de": "Welcher Begriff passt zum Bild?",
+          "hu": "Melyik kifejezés illik a képhez?"
+        },
+        "choices": {
+          "de": [
+            "der Mitarbeiter",
+            "der Zug",
+            "der Bahnhof",
+            "das Signal"
+          ],
+          "hu": [
+            "a munkatárs",
+            "a vonat",
+            "az állomás",
+            "a jelző"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Mitarbeiter.",
+          "hu": "A rajzon ez látható: a munkatárs."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "👷",
+        "prompt": {
+          "de": "Was ist auf dieser vereinfachten Zeichnung zu sehen?",
+          "hu": "Mit ábrázol az egyszerű rajz?"
+        },
+        "choices": {
+          "de": [
+            "der Mitarbeiter",
+            "der Bahnhof",
+            "das Signal",
+            "die Uhr"
+          ],
+          "hu": [
+            "a munkatárs",
+            "az állomás",
+            "a jelző",
+            "az óra"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Mitarbeiter.",
+          "hu": "A rajzon ez látható: a munkatárs."
+        }
+      },
+      {
+        "kind": "image",
+        "icon": "👷",
+        "prompt": {
+          "de": "Welches Wort beschreibt das Bild?",
+          "hu": "Melyik szó írja le a képet?"
+        },
+        "choices": {
+          "de": [
+            "der Mitarbeiter",
+            "das Signal",
+            "die Uhr",
+            "der Wagen"
+          ],
+          "hu": [
+            "a munkatárs",
+            "a jelző",
+            "az óra",
+            "a kocsi"
+          ]
+        },
+        "correct": 0,
+        "explanation": {
+          "de": "Das Bild zeigt: der Mitarbeiter.",
+          "hu": "A rajzon ez látható: a munkatárs."
+        }
+      }
+    ]
+  }
+]

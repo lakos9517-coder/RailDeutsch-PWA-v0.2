@@ -1,8 +1,10 @@
-RailDeutsch v0.7 telepítés
+RailDeutsch v0.8 – TELEPÍTÉS
 
-GitHub főmappájába töltsd fel: app.js, index.html, question-bank.json, quiz-v07.css, service-worker.js.
-Ne töröld a meglévő styles.css, music-player.js, rail-music.mp3, manifest.webmanifest és ikonfájlokat.
-Commit changes után várj a GitHub Pages frissülésre, majd Ctrl+Shift+R.
-Figyelem: régi eredmények a régi 3 kérdéses rendszerről értelmüket vesztik.
-A hangfájl jogszerű közzététele a tulajdonos felelőssége.
-A tananyag oktatási célt szolgál, nem helyettesít hivatalos vasútüzemi utasításokat.
+Töltsd fel a 6 fájlt a GitHub-tároló főmappájába: index.html, app.js, quiz-v07.css, question-bank.json, advanced-questions.json, service-worker.js.
+A csomagban lévő music-player.js fájlt csak akkor töltsd fel, ha a meglévő GitHub-fájlt hiányolod.
+Ne töröld: styles.css, manifest.webmanifest, iconok, rail-music.mp3 (ha jogosult vagy a közzétételére).
+A helyes telepítéshez Settings -> Pages -> main, root. Frissítés után várj, és nyiss új böngészőlapot.
+
+Az új 20 kérdés: 14 szókincs/fordítás + 3 mondatos szövegértés + 3 egyszerű képfelismerés.
+Az illusztrációk általános piktogramok, nem hivatalos vasúti jelzőábrák.
+A v0.9 országonkénti Bahnwissen része még nincs beépítve.
