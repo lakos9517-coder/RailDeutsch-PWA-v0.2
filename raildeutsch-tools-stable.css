@@ -1,0 +1,6 @@
+#rd-learning-tools { box-sizing:border-box; padding:20px; margin:18px 0; border:1px solid #d4e5e9; border-radius:18px; background:#f2f8f9; }
+#rd-learning-tools h2 { margin:0 0 6px; font-size:1.15rem; }
+#rd-learning-tools p { margin:0 0 14px; color:#536d7d; }
+.rd-stable-buttons { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; }
+#rd-learning-tools .rd-stable-button { position:static!important; display:block!important; width:100%; min-height:48px; padding:12px; background:#086575; color:#fff; border:0; border-radius:12px; font:inherit; font-weight:700; cursor:pointer; }
+@media(max-width:480px){.rd-stable-buttons{grid-template-columns:1fr}}
